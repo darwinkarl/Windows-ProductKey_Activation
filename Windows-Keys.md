@@ -1,3 +1,107 @@
-NOTE
-These are NOT product / license keys that are valid for Windows activation.
-These keys only select the edition of Windows to install during setup, but they do not activate or license the installation.
+How to Activate Windows 11 without product keys
+--------------------------------------------------------------------------------------------------------------------------
+Step 1: Open Start Menu then type cmd on the search bar, then right-click Command Prompt and choose Run as administrator.
+--------------------------------------------------------------------------------------------------------------------------
+Step 2: After opening command prompt then type “slmgr.vbs /ipk yourlicensekey” to install a Windows 11 license key.
+--------------------------------------------------------------------------------------------------------------------------
+Step 3: You use the code “slmgr.vbs /skms s8.now.im” to connect to my KMS server. Then press enter.    
+--------------------------------------------------------------------------------------------------------------------------
+Step 4: Then type this code “slmgr.vbs /ato“. Then Press Enter.
+--------------------------------------------------------------------------------------------------------------------------
+Step 5:  Windows 11 is successfully activated. Done 🙂 Enjoy!
+--------------------------------------------------------------------------------------------------------------------------
+Note: If my KMS servers are busy, you can use new KMS servers: kms8.msguides.com
+. slmgr.vbs /skms kms8.msguides.com
+. slmgr.vbs /ato
+
+Here is the list of Windows 11 product keys free:
+Windows 11 Pro key: W269N-WFGWX-YVC9B-4J6C9-T83GX
+Windows 11 Pro N key: MH37W-N47XK-V7XM9-C7227-GCQG9
+Windows 11 Pro Workstations key: NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
+Windows 11 Pro Workstations N key: 9FNHH-K3HBT-3W4TD-6383H-6XYWF
+Windows 11 Pro Education key: 6TP4R-GNPTD-KYYHQ-7B7DP-J447Y
+Windows 11 Home key: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+Windows 11 Home N key: 3KHY7-WNT83-DGQKR-F7HPR-844BM
+Windows 11 Home Home Single Language key: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
+Windows 11 Home Country Specific: PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
+Windows 11 Education key: NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+Windows 11 Education N: 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+Windows 11 Enterprise key: NPPR9-FWDCX-D2C8J-H872K-2YT43
+Windows 11 Enterprise N key: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+Windows 11 Enterprise G: YYVX9-NTFWV-6MDM3-9PT4T-4M68B
+Windows 11 Enterprise G N: 44RPN-FTY23-9VTTB-MP9BX-T84FV
+Windows 11 Enterprise LTSC 2026 key: M7XTQ-FN8P6-TTKYV-9D4CC-J462D
+Windows 11 Enterprise N LTSC 2026 key: 92NFX-8DJQP-P6BBQ-THF9C-7CG2H
+
+Windows 11 Working Product Keys:
+W269N-WFGWX-YVC9B-4J6C9-T83GX
+8N67H-M3CY9-QT7C4-2TR7M-TXYCV
+VK7JG-NPHTM-C97JM-9MPGT-3V66T
+YTYG9-FR8RD-QBQC8-HC7J2-2JJFF
+MH37W-N47XK-V7XM9-C7227-GCQG9
+6P99N-YF42M-TPGBG-9VMJP-YKHCF
+
+Windows 11 Generic Product Keys
+Windows 11 Product Keys	List of Generic Key
+Windows 11 Education - YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY
+Windows 11 Enterprise	- XGVPP-NMH47-7TTHJ-W3FW7-8HV2C
+Windows 11 Pro Education - 8PTT6-RNW4C-6V7J2-C2D3X-MHBPB
+Windows 11 Pro - VK7JG-NPHTM-C97JM-9MPGT-3V66T
+Windows 11 Home - YTMG3-N6DKC-DKB77-7M9GH-8HVX7
+Windows 11 Home Home Single Language - BT79Q-G7N6G-PGBYW-4YWX6-6F4BT
+Windows 11 Home Country Specific - N2434-X9D7W-8PF6X-8DV9T-8TYMD
+Windows 11 Pro for Workstations - DXG7C-N36C4-C4HTG-X4T3X-2YV77
+Windows 11 Enterprise N - WGGHN-J84D6-QYCPR-T7PJ7-X766F
+Windows 11 Enterprise G N - FW7NV-4T673-HF4VX-9X4MM-B4H4T
+Windows 11 Education N - 84NGF-MHBT6-FXBX8-QWJK7-DRR8H
+Windows 11 Pro Education N - GJTYN-HDMQY-FRR76-HVGC7-QPF8P
+Windows 11 Pro N - 2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
+Windows 11 Pro for Workstations N - WYPNQ-8C467-V2W6J-TX4WX-WT2RQ
+Windows 11 Home N - 4CPRK-NM3K3-X6XXQ-RXX86-WXCHW
+
+Windows 11 Free Product Key 2026
+Windows 11 Editions	Product Keys
+Windows 11 Core Key	- 33QT6-RCNYF-DXB4F-DGP7B-7MHX9
+Windows 11 Enterprise G	- YYVX9-NTFWV-6MDM3-9PT4T-4M68B
+Windows 11 Enterprise LTSC Key - 92NFX-8DJQP-P6BBQ-THF9C-7CG2H
+Windows 11 S (Lean)	- NBTWJ-3DR69-3C4V8-C26MC-GQ9M6
+Windows 11 Pro build 10240 - VK7JG-NPHTM-C97JM-9MPGT-3V66T
+Windows Professional Education - 6TP4R-GNPTD-KYYHQ-7B7DP-J447Y
+Windows 11 Education N - 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+Windows 11 Pro N - MH37W-N47XK-V7XM9-C7227-GCQG9
+Windows 11 Pro for Workstations	- NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
+Windows 11 Pro 2026	- W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+Activate Windows 11 Home, Ultimate, PRO, Education, Professional Keys
+Activation Keys
+Windows 11 Ultimate Activation key - 4CPRK-NM3K3-X6XXQ-RXX86-WXCHW
+Windows 11 Ultimate key - QFFDN-GRT3P-VKWWX-X7T3R-8B639
+Windows 11 PRO Activation key - VK7JG-NPHTM-C97JM-9MPGT-3V66T
+Windows 11 Education - DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ
+Windows 11 PRO key - YTMG3-N6DKC-DKB77-7M9GH-8HVX7
+Windows 11 Home Key - 2F77B-TNFGY-69QQF-B8YKP-D69TJ
+Windows 11 Ultimate Product Activation key - DXG7C-N36C4-C4HTG-X4T3X-2YV77
+Windows 11 Professional - WNMTR-4C88C-JK8YV-HQ7T2-76DF9
+Windows 11 Enterprise 2018 LTSB N - WYPNQ-8C467-V2W6J-TX4WX-WT2RQ
+Windows 11 Enterprise G - DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+Windows 11 Home Singe Language - YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY
+Windows 11 Pro - 44RPN-FTY23-9VTTB-MP9BX-T84FV
+Activate Windows 11 Ultimate key - 84NGF-MHBT6-FXBX8-QWJK7-DRR8H
+Activate Windows 11 PRO key - NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+Windows 11 Home Single Language - 8PTT6-RNW4C-6V7J2-C2D3X-MHBPB
+Windows 11 Professional Workstation - YVWGF-BXNMC-HTQYQ-CPQ99-66QFC
+Windows 11 S - GJTYN-HDMQY-FRR76-HVGC7-QPF8P
+Windows 11 Home Activation key - YYVX9-NTFWV-6MDM3-9PT4T-4M68B
+Windows 11 Education N - XGVPP-NMH47-7TTHJ-W3FW7-8HV2C
+Windows 11 Enterprise Evaluation - NPPR9-FWDCX-D2C8J-H872K-2YT43
+Windows 11 Home + Office 2016 Professional Key - MNXKQ-WY2CT-JWBJ2-T68TQ-YBH2V
+Windows 11 Enterprise Activation key - NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+Windows 11 Pro + Office 2016 Professional Key - MNXKQ-WY2CT-JWBJ2-T68TQ-YBH2V
+Windows 11 Education N - DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ
+Windows 11 Education Key - WYPNQ-8C467-V2W6J-TX4WX-WT2RQ
+Windows 11 Education - QFFDN-GRT3P-VKWWX-X7T3R-8B639
+Windows 11 Enterprise Key - 84NGF-MHBT6-FXBX8-QWJK7-DRR8H
+Windows 11 Pro N - 2F77B-TNFGY-69QQF-B8YKP-D69TJ
+Windows 11 Pro Key - VK7JG-NPHTM-C97JM-9MPGT-3V66T
+Windows 11 Home - WNMTR-4C88C-JK8YV-HQ7T2-76DF9
+
