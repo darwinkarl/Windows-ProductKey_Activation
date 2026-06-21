@@ -1,1 +1,20 @@
+Reference: https://www.youtube.com/watch?v=Hp7J0T8lIEQ
+
+Procedure
+1. Create a Folder on Desktop name Office
+2. Download deployment tool in microsoft and put in the Office Folder
+below is the link
+• Reference: https://www.microsoft.com/en-us/download/details.aspx?id=49117
+3. Install the Deployment tool and save it to your Office Folder
+4. After the Deployment tool is install now go to Customization Tool in Microsoft and export the configuration in your Office Folder
+• Reference: https://config.office.com/deploymentsettings
+• Now choose the Office Setting
+• Office Suites - Office LTSC Professional Plus 2024 - Volume License
+• Select the version - Latest
+• Export the Configuration and paste to the Office Folder
+5. Place your Office Folder to drive C:
+6. Open CMD in Administration and run the following
+• cd C:\Office 2024
+• setup /confugure configuration.xml
+7. Done!
 
